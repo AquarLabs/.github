@@ -2,10 +2,7 @@
 ![AquarLabs Open Source](https://aquarlabs.com/assets/imgs/aquarlabs-opensource.png)
 
 ---
-
-# Welcome to [Company Name]
-
-We're committed to changing the digital environment into everyday normal lives. Our mission is to drive futuristic projects that prioritize privacy and individual rights.
+We're AquarLabs committed to changing the digital environment into everyday normal lives. Our mission is to drive futuristic projects that prioritize privacy and individual rights.
 
 ## Our Vision
 We aim to deliver cutting-edge open-source projects that lead the future of technology and digitalization around the globe. Our focus is on emerging technologies like:
